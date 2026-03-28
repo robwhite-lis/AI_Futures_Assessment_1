@@ -26,6 +26,14 @@ year of diagnosis
 
 histology
 histological subtypes of CMM
+Superfial spreading
+nodular
+lentigo maligna
+acrallentiginous
+spitzoid
+desmoplastic
+malignant melanoma
+
 
 site
 primary tumor site
