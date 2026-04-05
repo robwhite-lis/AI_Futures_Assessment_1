@@ -3,6 +3,12 @@ DOI Identifier https://doi.org/10.6084/m9.figshare.24637938
 Accessed via https://figshare.com/articles/dataset/Melanoma_dataset/24637938?file=43298055
 Date 28/03/2026
 
+## Veneto Tumor Registry
+The Veneto Tumor Registry  was created in 2010. 
+
+Veneto is a region in northern Italy (capital Venice) with a population of just under 5 million people. Further details about this registry are available at https://www.registrotumoriveneto.it/english/introduction/  
+
+This registry is part of the Association of Italian Tumor Registries (AIRTUM) which was established in 1996 to promote high quality standardised cancer registry data which is used by amongst others the Italian Ministry of Health. This is considered a gold standard in Europe. More details can be found at https://www.registri-tumori.it/cms/
 
 ### Study population
 All incident cases of invasive cutaneous malignant melanoma (CMM) recorded in the Veneto Cancer Registry (Registro Tumori del Veneto – RTV) in 2015 (1,050 cases) and 2017 (1,205 cases) for which the number of mitoses was available.
